@@ -20,5 +20,3 @@
 ![Static Badge](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=557C94&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=GitBook&logoColor=3884FF&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=F58025&labelColor=black)
-
-![Static Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=D22128&labelColor=black&link=https%3A%2F%2Fhttpd.apache.org%2F)
