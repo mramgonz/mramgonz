@@ -3,7 +3,7 @@
 <h3>About me</h3>
 <ul>
   <li>
-    Currently studying DAW, eJPT
+    Desarrollador de Software & Junior Pentester
   </li>
 </ul>
 
